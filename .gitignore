@@ -9,3 +9,23 @@
 .externalNativeBuild
 
 bintray.properties
+
+#Project
+workspace.xml
+tasks.xml
+target/
+pom_tmp.xml
+logs/
+
+#OSX
+.DS_Store
+
+#intellij
+.idea/
+*.iml
+*.iws
+
+#Eclipse
+.classpath
+.project
+.settings/
